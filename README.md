@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Jeremia2001
-- 👀 I’m interested in coding and tech
-- 🌱 I’m currently learning C#, WebDevelopment and Python
+Der codende Kahn
 
 
 <!---
